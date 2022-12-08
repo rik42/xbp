@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../xbp_text_mining-main"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "de12"
+	}
+}
