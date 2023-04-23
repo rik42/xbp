@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../de12"
+		},
+		{
+			"path": "../../digi_fab"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "XBP_second-year-main"
+	}
+}
