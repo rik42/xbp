@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../de56"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "de34"
+	}
+}
